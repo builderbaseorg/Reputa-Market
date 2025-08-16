@@ -7,16 +7,15 @@
 The platform targets crypto traders, early token investors, and small project communities that frequently conduct OTC trades but lack infrastructure for safety and transparency.
 
 ![image.png](DOCS/DOCSimage.png)
-_Reputa Market - Dashboard Overview_
+
 
 ![image.png](DOCS/DOCSimage_1.png)
-_ReputaProfile - Public View_
+
 
 ![image.png](DOCS/DOCSimage_2.png)
-_Marketplace - Listing and Filtering_
+
 
 ![image.png](DOCS/DOCSimage_3.png)
-_Direct Deal - Escrow Initiation_
 
 ---
 
