@@ -24,7 +24,7 @@ The platform targets crypto traders, early token investors, and small project co
 ### 2.1 ReputaProfile
 
 ![image.png](DOCS/DOCSimage_4.png)
-_ReputaProfile Overview_
+
 
 Every wallet that connects to the platform is assigned a **ReputaProfile**. This profile is the foundation of the user’s trading identity and includes:
 
@@ -45,10 +45,10 @@ Users **cannot modify their trade history or rating**, but may update their bio,
 ### 2.2 Escrow System
 
 ![image.png](DOCS/DOCSimage_5.png)
-_Escrow State Machine - Happy Path_
+
 
 ![image.png](DOCS/DOCSimage_6.png)
-_Escrow Dispute Flow_
+
 
 All trades on Reputa are executed through a **smart contract-based escrow system** called **The Vault**.
 
@@ -74,7 +74,7 @@ Escrow logic is implemented using Cardano Plutus smart contracts with transparen
 ### 2.3 OTC Marketplace
 
 ![image.png](DOCS/DOCSimage_7.png)
-_Marketplace with Seller Previews_
+
 
 Reputa features a real-time, filterable **OTC marketplace** where users can list and browse OTC offers. The platform enables **Direct Deal** transactions through a streamlined **chat → link → escrow** flow, allowing users to initiate secure peer-to-peer trades directly from marketplace listings.
 
